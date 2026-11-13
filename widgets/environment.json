@@ -1,0 +1,1 @@
+[{"values":["chrome"],"name":"Browser"},{"values":["157.0.8103.50"],"name":"Browser.Version"},{"values":["https://www.saucedemo.com"],"name":"Base.URL"},{"values":["true"],"name":"Headless"},{"values":["local"],"name":"Grid"},{"values":["Linux"],"name":"OS"},{"values":["21.0.13"],"name":"Java"}]
