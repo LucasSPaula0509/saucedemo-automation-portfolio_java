@@ -1,0 +1,2 @@
+[2026-11-27T20:42:58.672Z] [SEVERE] https://www.saucedemo.com/assets/index-DnLqFcJI.js 3 Permissions policy violation: unload is not allowed in this document.
+[2026-11-27T20:42:58.803Z] [FINE] https://www.saucedemo.com/ - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
